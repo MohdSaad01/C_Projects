@@ -5,6 +5,7 @@ A curated collection of beginner friendly C mini projects featuring simple games
 ## 📁 Projects Included
 
 - **Spooky Mad Libs:** A fun interactive story generator where users input creepy words to create a spooky tale.
+- **Bank_Console:** C program simulating a basic banking system with options to check balance, deposit money, and withdraw funds.
 - **Multi_Tool_Calculator:** A project that includes a basic calculator, weight and temperature converter, and compound interest calculator.
 - **Rock Paper Scissors:** This project lets players battle the computer using randomization and condition logic.
 
