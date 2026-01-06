@@ -8,5 +8,6 @@ A curated collection of beginner friendly C mini projects featuring simple games
 - **Bank_Console:** C program simulating a basic banking system with options to check balance, deposit money, and withdraw funds.
 - **Multi_Tool_Calculator:** A project that includes a basic calculator, weight and temperature converter, and compound interest calculator.
 - **Rock Paper Scissors:** This project lets players battle the computer using randomization and condition logic.
+- **Quiz Game:** A C program using arrays and functions to run a multiple-choice quiz with real-time answer validation and score tracking.
 
 *Note: These projects are self contained and can be compiled and run independently.*
